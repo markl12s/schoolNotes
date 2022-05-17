@@ -1,0 +1,9 @@
+MOTION
+speed = distance / time
+acceleration = change_in_velocity / time_elapsed
+distance = 0.5 * acceleration * time
+force = mass * acceleration
+weight = mass * acceleration_due_to_gravity
+momentum = mass * velocity
+centripetal_force = (mass * (velocity ^ 2)) / radius_circle
+gravitational_force = UNIVERSAL_CONSTANT * ((massA * massB) / distance)

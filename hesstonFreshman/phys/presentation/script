@@ -1,0 +1,20 @@
+on July 16, 1969 the saturn 5 was launched into space to go to the moon
+
+sent on the sataurn V rocket, the first unmanned test flight was in 1967
+
+one of the most important part of the moon landing was the apollo guidance computer. 
+The computer ran on 72 kilobytes of memory, for some perspective a modern pregnancy test has around 64 KB
+The project was run by Margaret Hamilton, but had 350 total people involved in it's development
+it was predominately self driving David Mindell describes it as
+"the story of human prowess is almost a complete reversal of reality", 
+yet somehow the astronauts still managed to screw it up. proving the superiority of automated systems, as manually controlled should be left to toys, not useful systems.
+A human error caused some significant problems, during landing sending bad instructions, but due to
+J. Halcombe Lanings triage system for it's instructions it deemed that these were unimportant and 
+continued with normal landing
+
+It was written In a language created for it called appollo guidance system assembly language, an
+which was an interpreted language, the interpreting was done through a VM that was dedicated to
+interpreteting. This was done despite the fact that at this time the gap in speed between 
+interpreted and compiled languages was enormas as Just in Time compiling is much more recent
+
+So in conclusion, while we went to the moon with a self driving pregnancy test in 1967, yet people are still scared of self driving cars

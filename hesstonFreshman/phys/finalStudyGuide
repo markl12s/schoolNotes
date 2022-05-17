@@ -1,0 +1,174 @@
+1) electromagnetic spectrum
+	A) range of frequencies of radiation
+		I) and their wavelengths
+		II) it shows the range of it's effects
+			a) covers from below 1 hertz to above 10^25 hertz
+			b) size between thousands of kilometers smaller than atomic nucleaus
+				1) no known length maximum, and the minumum is likely a planck length
+			c) different bands
+				1) all have different characteristics
+					A) such as how they are produced
+					B) how they interact with matter
+					C) practical applicatilons
+						I) such as radio, or visible light
+		III) studied with spectroscopy
+			a) look into this
+	B) history and discovery
+		I) most of history visible light and radiant heat was not known to be connected
+		II) ancient greeks knew that light travelled in straight lines
+			a) studied some of it's properties
+		III) offfical study of electromagnets started in 1820
+			a) Hans Christian Orsted discovered that electric currents produce magnetic fields 
+			b) light linked to electromagnetism in 1845 
+				1) Michael Faraday discovered the polariztion of light magnetic field
+			b) in 1860z James Clerk Maxwell developed four partial differential equations
+				1) Maxwell's equations
+				2) infinite range of frequencies of electromagnetic range
+					A) all travelling at speed of light
+					B) included very low frequenies
+	C) range
+		I) three properties of electromagnatic waves
+			a) Frequency
+			b) wavelength
+				1) inversely related to frequency
+					A) gamma rays have short wavelenth, while opposite are extremely long 
+			c) photon energy
+	D) types of radiation
+		I) radio waves
+			a) emitted/recieved by antennas
+				1) conductors such as metal rod resonators
+				2) those osilate create electric/magnetic field
+			b) used in wireless networking
+				1) WAP, wireless access point
+			c) I should learn ham radio over the summer
+		II) microwaves
+			a) radio waves with short wavelength
+		III) infared radiation
+			a) divided into three parts
+				1) far-infared
+					A) 300 GHz to 30 THz
+				2) mid-infared
+					A) 30 - 120 THz
+					B) hot objects radiate strongly in this range
+				3) near-infared
+					A) 120-400 THz
+					B) often used for photographic film and infared photo/videography
+		IV) Visible light
+			a) above infared in frequency
+				1) sun emits most of it's power in the visible region
+		V) X-rays
+			a) can interact with matter
+				1) compton effect
+		VI) Gamma rays
+			a) the most energetic photons
+				1) no defined lower limit to their wavelength
+			b) used in astronomy for studying high energy objects or regions
+				1) unlike x-rays, can still telescopes can still be inside earths atmosphere
+					A) cheaper
+
+2) the scientific method
+	A) not necessarily followed exactly
+		I) for example studying stars can't necisarily do all the tests on the star itself
+			a) but might be able to get close with simulations
+	B) steps of it
+		I) ask a question
+			a) something you are trying to figure out the answer to
+				1) could be a simple boolean question, like "is this true?", or a more complex "why does this happen?"
+		II) do background research
+			a) stand on the shoulder of giants
+		III) construct a hypothesis
+			a) guess about how things work/answer to your question
+		IV) test your hypothesis
+			a) run an expieriment
+				1) controlled expieriment
+					A) make sure all factors that can be under your control are under your control
+		V) analyze your data and draw a conclusion
+			a) once expierinment is concluded write up your results
+				1) not always conclusive
+		VI) communicate your results
+			a) release a report
+
+3) the periodic table
+	A) created by Dmitri Mendeleev, a russian chemist
+	B) reading the periodic table
+		I) atomic number
+			a) number of protons in an atoms nucleas
+		II) atomic symbol
+			a) the one or two letters that describe an element
+				1) for example "O" for oxygen
+					A) this allows you to localize the names of the element and have an international term as well
+		III) atomic mass
+			a) standard atomic weight
+			b) generally a floating point/decimal number
+				1) because it's a weighted average of the isotopes
+	C) how it's designed
+		I) atomic weight and valence electrons
+			a) each element has a row (period) and column (group)
+				1) seven periods, 18 groupsa
+
+4) seperation of mixtures
+	A) different mixtures can be used to seperate mixtures
+		I) handpicking
+			a) picking out all unwanted substances by hand
+				1) generally relatively large objects
+		II) sieving
+			a) seperate mixtures between different sizes
+				1) goes through a colander
+		III) evaporation
+			a) seperating a mixture
+				1) mixture is heated until one evaporates and leaves the other liquid
+		IV) distilation
+			a) vaporized condensed and isolated
+			b) mixture is vaporized condensed and then isolated
+		V) filteration or sedimentation
+			a) remove solid particles from water
+				1) use a funnel
+		VI) seperating funnel
+			a) unequal density in particles
+				1) split between top and bottom
+				2) oil and water for example
+		VII) magnetic seperation
+			a) when one substance has magnetic properties you can use a magnet
+
+5) the hubble space telescope
+	A) a big telescope sent into space by NASA for scientific research
+		I) launched on april 24th 1990 from the space shuttle discovery
+		II) first image on may 20th
+		III) 43.5 feet long
+		IV) 24,000 pounds at launch
+		V) altitude of 340 miles
+		VI) 150 gigabits of science data weekly
+		VII) solar powered
+			a) 25 foot solar pannels
+
+6) Apollo Guidance System (AGC) 
+	A) In July 16, 1969
+	B) sent on the Saturn V rocket
+		I) from engines fired to in orbit is 12 minutes
+		II) final landing with only 30 seconds worth of fuel to spare
+			a) armstrong was most worried about the landing "there were just a million things to worry about"
+	C) the saturn 5
+		I) first unmanned test flight was in 1967
+		II) at first it carries 203,400 gallons of fuel
+			a) at 42 miles the F-1 engines shut down and are dropped into the ocean because they are dead weight
+				1) 340,000 gallons of fuel are left
+	D) appollo guidance computer
+		I) development of it was led by Margaret Hamilton
+			a) 350 total people involved
+			b) at one point a hardware problem came up due to human error in flight
+			c) predominatlely self driving
+				1) according to David Mindell "the story of human prowess is almost a perfect reversal of reality"
+		II) only had 72 kilobytes of memory
+			a) for perspective a pregnancy test has 64 kilobytes
+		III) built ontop polaris guided-missile system
+			a) used for nuclear weapons
+		IV) one of the first computers to support multitasking as well as early User interface
+			a) only reason it could land due to the hardware malfunction, as the hardware was giving bad isntructions, but they were deemed low priority
+				1) this is why I don't trust humans
+		V) written in AGC (appollo guidance computer) assembly language
+			a) it was an interpreted language, meaning the computer would interpret what was written in operation instead of compiling it all beforehand
+				1) interpreted on a virtual machine that was dedicated to interpreting the code
+					A) despite the fact that interpreted languages are generally slower especially before Just in time compling
+	E) Hamilton popularized the term "software engineering"
+		I) which is the term for using the principles of engineering in design, development and maintenance of software
+		II) her code was written on punch cards

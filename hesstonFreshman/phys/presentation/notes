@@ -1,0 +1,37 @@
+1) In July 16, 1969
+2) sent on the Saturn V rocket
+	A) from engines fired to in orbit is 12 minutes
+	B) final landing with only 30 seconds worth of fuel to spare
+		I) armstrong was most worried about the landing "there were just a million things to worry about"
+3) the saturn 5
+	A) first unmanned test flight was in 1967
+	B) at first it carries 203,400 gallons of fuel
+		I) at 42 miles the F-1 engines shut down and are dropped into the ocean because they are dead weight
+			a) 340,000 gallons of fuel are left
+
+4) appollo guidance computer
+	A) development of it was led by Margaret Hamilton
+		I) 350 total people involved
+		II) at one point a hardware problem came up due to human error in flight
+		III) predominatlely self driving
+			a) according to David Mindell "the story of human prowess is almost a perfect reversal of reality"
+	B) only had 72 kilobytes of memory
+		I) for perspective a pregnancy test has 64 kilobytes
+	C) built ontop polaris guided-missile system
+		I) used for nuclear weapons
+	D) one of the first computers to support multitasking as well as early User interface
+	E) J. Halcombe Laning designed a triage syste for it's tasks
+		I) only reason it could land due to the hardware malfunction, as the hardware was giving bad isntructions, but they were deemed low priority
+			a) this is why I don't trust humans
+	F) written in AGC (appollo guidance computer) assembly language\
+		I) it was an interpreted language, meaning the computer would interpret what was written in operation instead of compiling it all beforehand
+			a) interpreted on a virtual machine that was dedicated to interpreting the code
+				1) despite the fact that interpreted languages are generally slower especially before Just in time compling, which is the only real reason modern interpreted languages like python, is usable
+
+5) Hamilton popularized the term "software engineering"
+	A) her code was written on punch cards
+
+https://www.smithsonianmag.com/smithsonian-institution/margaret-hamilton-led-nasa-software-team-landed-astronauts-moon-180971575/
+https://www.theverge.com/tldr/2020/9/4/21422628/digital-pregnancy-test-teardown-processor-ram-ibm-pc 
+https://www.theatlantic.com/science/archive/2019/07/underappreciated-power-apollo-computer/594121/
+https://www.theatlantic.com/science/archive/2019/07/underappreciated-power-apollo-computer/594121/
