@@ -1,0 +1,90 @@
+1) quiz on mymathlab
+	A) very similar to the test
+		I) so if you can do the test you can do the quiz
+			a) due tomorrow night
+
+QUADRATIC FUNCTIONS AND THEIR PROPERTIES
+2) f(x) = x ^ 2
+	A) basic function
+3) f(x) = 2x^2
+	A) vertical stretch by two
+4) f(x)  = 2(x - 1) ^ 2
+	A) right by 1
+5) f(x)  = 2(x - 1) ^ 2 - 3
+	A) down by 3
+	B) so the full transformation is stretch by 2, right by 1, down by 3
+
+6) verticalStretch * sqrt(x + leftMovement)^2 + upMovement
+
+7) standard form of quadratic function
+	A) f(x) = ax^2 + bx + c where a != 0
+	B) if a > 0 parabola opens up
+		I) towards positive infinity
+	C) if a < 0 parabola opens down
+		I) towards negative infinity
+	D) h = -(-b/2a) and k = f(h)
+		I) coordinates of the vertex
+		II) x = h; y = k
+	E) to find the intercepts
+		I) y intercept
+			a) x(0)
+		II) x intercept
+			a) ax^2 + bx + c
+
+8) look up axis of symetry, don't fully understand that
+
+9) various properties of a graph
+	A) domain
+		I) x's in the graph
+	B) range
+		I) Y's in the graph
+	C) increasing
+		I) where it goes up/left to right
+	D) decreasing
+		I) where it goes down/right to left
+
+10) f(x) = 3x^2 -24x + 53
+	if (k opens up)
+		minimum of function = k
+		no maxiumum
+	else if (k opens down)
+		no minimum of function
+		maximum of function = k
+
+	D) formula to find minimum of function
+		A) x = -(-b/2a)
+
+INEQUALITIES INVOLVING QUADRATIC FUNCTIONS
+11) to solve inequalities involving quadratic functions
+	A) find the x-intercepts
+	B) determine if the parabola opens up or down
+	C) graph the parabola
+		I) graph the parabola, using x-intercepts and the fact that the parabola opens up or down
+	D) select the intervals that form the solution set
+
+12) if two equations, put all of it on one side and put 0 on the other
+	A) 2x^2 + 2x + 3 > x^2 - 2x + 8
+		I) x^2 + 4x - 5 = 0
+
+POLYNOMIAL FUNCTIONS
+13) definition of polynomial function
+	A) functiion in the form an * x ^ n + an-1 x ^ n-1 + etc
+	B) leading term, largest exponent
+		I) leading coefficent, the number before the variable in the leading term
+			a) i.e 5x^2 leading term is 5
+	C) this is basically just big O notation for analyzing algorithms
+		I) the degree is the speed in big O notation
+
+14) if multiplicity of a zero is odd, then the graph of the polynomial crosses the x-axis, then graph of
+	the polynomial crosses, the axis. and if the multiplicity of a zero is even, then graph of the polynomial
+	touches the x-axis at that point
+
+MISC NOTES
+15) sqrt of a number can be positive or negative
+	A) sqrt(4) = 2, -2
+		I) opposite of the positive number
+
+16) for origin symetry see if you can swap x and y and get the same function
+	A) if no Y-axis symetry
+
+17) work on symetry of a graph

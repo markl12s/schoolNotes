@@ -1,0 +1,49 @@
+1) Hybrid class
+	A) 7 hours a week  online "In class"
+		I) more time other
+
+2) 27 sections
+	A) not much will be the last week
+		I) as it will be for final preparations
+	B) about 9 sections in a week
+		I) 5-6 in class, the rest online
+
+3) sullivan 11th editon
+	A) buy online version
+		I) most important part is the access code
+	B) buy directly from pierson, it's faster/easier and same price
+
+4) simple scientific calculators are allowed
+	A) no graphing calculators
+
+5) 2 midterms exams, and a final
+
+LINEAR EQUATIONS
+6) put vars on one side, numbers on other
+	A) try writing a linear function calculator
+		I) afterwards maybe generalize to quadratics as well
+
+QUADRATIC EQUATIONS
+7) solve by factoring
+	A) find numbers (n and m) that add to the b and multipy for the c for ax^2 + bx + c
+		I) (3x - n) (x + m)
+
+8) square root method
+	A) x^2 - 4 = 0
+		I) move 4 to the right
+			a) x^2 = -4
+
+9) completing the square method
+	A) more generalized solution
+		I) harder, so probably work on this more, since it works for everything, so I can use just it
+	B) add a number to get a complete square
+	C) apply square root property
+	D) solutions = [sqrt(14) - 2, sqrt(-14) - 2]
+	E) x^2 - 10x + 2 = 0
+
+10) quadratic formula
+	A) solutions to quadratic equation
+		I) learn it
+		II) seperately do the b^2 - 4ac
+
+11) email professor about wrong code in sylabus

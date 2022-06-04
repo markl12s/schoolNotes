@@ -1,0 +1,75 @@
+5.1
+1) end behavior
+	A) x and y go to infinity or negative infinity depending on the sector of the graph
+		I) the graph goes to different sections depending on the function in use
+
+2) end behavior for y = x^2
+	A) both up/a U like shape
+3) end behavior for y = -x^2
+	A) the opposite of y=x^2
+		I) both down, similar to the intersection symbol
+4) y = x^3
+	A) down and up
+		I) sort of like a  lightning bolt
+5) y = -x^3
+	A) reflection of x^3
+
+6) the negative sign reflects the graph
+
+7) the end behavior of even degree polynomial is similar to end behavior of x^2 or -x^2
+8) odd degree polynomials will be similar to x^3 or -x^3
+
+9) sign of the leading term
+	A) if the leading term is negative it reflects the end behavior
+	B) if positive
+		I) if even
+			a) trends towards (inf, inf)
+		II) if odd
+			a) trends towards (-inf, inf)
+	C) if negative
+		I) if even
+			a) trends towards (-inf, -inf)
+		II) if odd
+			a) trends towards (inf, -inf)
+
+GRAPH A POLYNOMIAL
+10) to graph a polynomial
+	A) find y-intercepts
+		I) plug 0 in for x
+	B) find the x-intercepts
+	C) determine if graph crosses/touches x-axis
+		I) use multiplicities
+			a) even or odd
+	D) determine the end behavior
+	E) graph
+		I) imprecise
+
+RATIONAL FUNCTIONS
+11) horizontal asymtotes
+	A) if degree of numberator < degree denominator
+		I) y=0 (x-axis) is the horizonatal asymptote
+	B) if degree of numberator == degree denominator
+		I) leading coeficient of numerator / leading coefficient of the denominator
+			a) is the leading coeffiecient
+	C) if degree of numberator == degree denominator + 1
+		I) then asymptote is oblique
+
+12) vertical asymtotes
+	A) to find vertical asymptotes, first find zeros of denominator
+
+MISC NOTES
+13) replace the laptop battery
+14) learn multiplicities, I don't fully understand these
+
+4.3
+15) f(x) = (function) + constant
+	A) for quadratics
+
+16) vertex formula
+	A) x = -b/2a
+
+goals
+17) learn completing the square
+18) practice transofrmations
+19) review table on 261 on textbook
+20) learn vertex form
