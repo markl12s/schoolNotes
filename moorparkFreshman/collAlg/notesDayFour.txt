@@ -73,3 +73,5 @@ goals
 18) practice transofrmations
 19) review table on 261 on textbook
 20) learn vertex form
+
+
