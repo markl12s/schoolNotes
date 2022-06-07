@@ -1,0 +1,6 @@
+if (discriminant b^2 - 4ac > 0)
+	graph f(x)  has 2 x-intercepts
+if (discriminant b^2 - 4ac == 0)
+	graph f(x) has 1 x-intercepts
+if (discriminant b^2 - 4ac < 0)
+	graph f(x) has 0 x-intercepts

@@ -1,0 +1,28 @@
+COMPOSITE FUNCTIONS
+1) FoG(x)
+	A) same as F(G(x))
+	B) pipelines functions together
+		I) n = G(x) || F(n)
+
+2) domain of function
+	A) inputs that don't break the function
+
+3) requirment of function
+	A) one input == one output
+	B) one to one function
+		I) no repeating outputs
+		II) example
+			a) f(x) = sqrt(x)
+		III) domain of function = inverse of function
+	C) to find inverse of function given by a graph, find the graph symetric to the line y=x
+		I) the graphs of a function and its inverse are symetric with respect to the line y=x
+
+4) find the inverse
+	A) F^-1
+		I) inverse of the function
+
+5) eulers number
+	A) (1 + 1/inf)^inf
+
+6) replace the computers battery
+	A) it keeps running out, dies mid class, can't get much time out of lowering brightness
